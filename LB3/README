@@ -1,0 +1,21 @@
+# Image Processing Lab
+
+## What We Did
+
+In this lab, we used Python with **Pillow, NumPy, and Matplotlib** to apply different image transformations.
+
+### Task 1: Geometric Transformations
+
+* Increased the image size.
+* Rotated the image by 120 degrees.
+* Applied a shear transformation.
+
+### Task 2: Intensity Transformations
+
+* Created a negative image.
+* Applied a log transformation.
+* Applied a power-law transformation using gamma = 0.5.
+
+## What We Learned
+
+We learned how images can be changed using geometric and intensity transformations. We also learned how to use Python libraries to read, process, and display images, and how changing pixel values can affect the appearance of an image.
